@@ -1,0 +1,23 @@
+{
+  "name": "@liuyan9527/myloader",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "release": "bumpp && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liuyan4809/myloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liuyan4809/myloader/issues"
+  },
+  "homepage": "https://github.com/Liuyan4809/myloader#readme",
+  "dependencies": {
+    "bumpp": "^8.2.1"
+  }
+}

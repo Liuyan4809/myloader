@@ -1,4 +1,4 @@
 export default function loader(source) {
-  console.log('hello loader 4')
+  console.log('hello loader 5')
   return source;
 }
